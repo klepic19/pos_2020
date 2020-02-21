@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="mysql-connector-java-5.1.47">
+    <archive path="/home/daniel/Desktop/FPMOZ-Restoran-PUJ-2018-2019-JAVAFX/src/libs/mysql-connector-java-5.1.47.jar" />
+  </library>
+</eclipse-userlibraries>
+
